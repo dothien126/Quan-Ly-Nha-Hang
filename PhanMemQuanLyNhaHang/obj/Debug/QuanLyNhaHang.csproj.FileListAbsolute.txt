@@ -1,0 +1,167 @@
+C:\Users\LENOVO\Desktop\New folder\PhanMemQuanLyKhachSan\PhanMemQuanLyKhachSan\obj\Debug\QuanLyNhaHang.csprojAssemblyReference.cache
+C:\Users\LENOVO\Desktop\New folder\PhanMemQuanLyKhachSan\PhanMemQuanLyKhachSan\obj\Debug\PhanMemQuanLyKhachSan.frmCapNhatLichLamViec.resources
+C:\Users\LENOVO\Desktop\New folder\PhanMemQuanLyKhachSan\PhanMemQuanLyKhachSan\obj\Debug\PhanMemQuanLyKhachSan.frmCapNhatBanAn.resources
+C:\Users\LENOVO\Desktop\New folder\PhanMemQuanLyKhachSan\PhanMemQuanLyKhachSan\obj\Debug\PhanMemQuanLyKhachSan.frmCapNhatMonAn.resources
+C:\Users\LENOVO\Desktop\New folder\PhanMemQuanLyKhachSan\PhanMemQuanLyKhachSan\obj\Debug\PhanMemQuanLyKhachSan.frmthucphamnhahang.resources
+C:\Users\LENOVO\Desktop\New folder\PhanMemQuanLyKhachSan\PhanMemQuanLyKhachSan\obj\Debug\PhanMemQuanLyKhachSan.frmDangNhap.resources
+C:\Users\LENOVO\Desktop\New folder\PhanMemQuanLyKhachSan\PhanMemQuanLyKhachSan\obj\Debug\PhanMemQuanLyKhachSan.frmNhaCungCap.resources
+C:\Users\LENOVO\Desktop\New folder\PhanMemQuanLyKhachSan\PhanMemQuanLyKhachSan\obj\Debug\PhanMemQuanLyKhachSan.frmLienHe.resources
+C:\Users\LENOVO\Desktop\New folder\PhanMemQuanLyKhachSan\PhanMemQuanLyKhachSan\obj\Debug\PhanMemQuanLyKhachSan.frmManHinhChinh.resources
+C:\Users\LENOVO\Desktop\New folder\PhanMemQuanLyKhachSan\PhanMemQuanLyKhachSan\obj\Debug\PhanMemQuanLyKhachSan.frmChiTietPhieuDatBan.resources
+C:\Users\LENOVO\Desktop\New folder\PhanMemQuanLyKhachSan\PhanMemQuanLyKhachSan\obj\Debug\PhanMemQuanLyKhachSan.frmQuanLyKhachHang.resources
+C:\Users\LENOVO\Desktop\New folder\PhanMemQuanLyKhachSan\PhanMemQuanLyKhachSan\obj\Debug\PhanMemQuanLyKhachSan.frmQuanLyNhanVien.resources
+C:\Users\LENOVO\Desktop\New folder\PhanMemQuanLyKhachSan\PhanMemQuanLyKhachSan\obj\Debug\PhanMemQuanLyKhachSan.Properties.Resources.resources
+C:\Users\LENOVO\Desktop\New folder\PhanMemQuanLyKhachSan\PhanMemQuanLyKhachSan\obj\Debug\PhanMemQuanLyKhachSan.frmQuanLyPhong.resources
+C:\Users\LENOVO\Desktop\New folder\PhanMemQuanLyKhachSan\PhanMemQuanLyKhachSan\obj\Debug\PhanMemQuanLyKhachSan.frmCapNhatThongTinNhanVien.resources
+C:\Users\LENOVO\Desktop\New folder\PhanMemQuanLyKhachSan\PhanMemQuanLyKhachSan\obj\Debug\QuanLyNhaHang.csproj.GenerateResource.cache
+C:\Users\LENOVO\Desktop\New folder\PhanMemQuanLyKhachSan\PhanMemQuanLyKhachSan\obj\Debug\QuanLyNhaHang.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\Desktop\New folder\PhanMemQuanLyKhachSan\PhanMemQuanLyKhachSan\obj\Debug\PhanMemQuanLyKhachSan.exe
+C:\Users\LENOVO\Desktop\New folder\PhanMemQuanLyKhachSan\PhanMemQuanLyKhachSan\obj\Debug\PhanMemQuanLyKhachSan.pdb
+C:\Users\LENOVO\Desktop\New folder\PhanMemQuanLyKhachSan\PhanMemQuanLyKhachSan\bin\Debug\PhanMemQuanLyKhachSan.exe.config
+C:\Users\LENOVO\Desktop\New folder\PhanMemQuanLyKhachSan\PhanMemQuanLyKhachSan\bin\Debug\PhanMemQuanLyKhachSan.exe
+C:\Users\LENOVO\Desktop\New folder\PhanMemQuanLyKhachSan\PhanMemQuanLyKhachSan\bin\Debug\PhanMemQuanLyKhachSan.pdb
+C:\Users\LENOVO\Desktop\New folder\PhanMemQuanLyKhachSan\PhanMemQuanLyKhachSan\bin\Debug\EntityFramework.dll
+C:\Users\LENOVO\Desktop\New folder\PhanMemQuanLyKhachSan\PhanMemQuanLyKhachSan\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\LENOVO\Desktop\New folder\PhanMemQuanLyKhachSan\PhanMemQuanLyKhachSan\bin\Debug\EntityFramework.xml
+C:\Users\LENOVO\Desktop\New folder\PhanMemQuanLyKhachSan\PhanMemQuanLyKhachSan\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\LENOVO\Desktop\New folder\PhanMemQuanLyKhachSan\PhanMemQuanLyKhachSan\obj\Debug\QuanLyNhaHang.csproj.CopyComplete
+E:\Group-Practice\PhanMemQuanLyKhachSan\bin\Debug\PhanMemQuanLyKhachSan.exe.config
+E:\Group-Practice\PhanMemQuanLyKhachSan\bin\Debug\PhanMemQuanLyKhachSan.exe
+E:\Group-Practice\PhanMemQuanLyKhachSan\bin\Debug\PhanMemQuanLyKhachSan.pdb
+E:\Group-Practice\PhanMemQuanLyKhachSan\bin\Debug\EntityFramework.dll
+E:\Group-Practice\PhanMemQuanLyKhachSan\bin\Debug\EntityFramework.SqlServer.dll
+E:\Group-Practice\PhanMemQuanLyKhachSan\bin\Debug\EntityFramework.xml
+E:\Group-Practice\PhanMemQuanLyKhachSan\bin\Debug\EntityFramework.SqlServer.xml
+E:\Group-Practice\PhanMemQuanLyKhachSan\obj\Debug\QuanLyNhaHang.csprojAssemblyReference.cache
+E:\Group-Practice\PhanMemQuanLyKhachSan\obj\Debug\PhanMemQuanLyKhachSan.frmCapNhatChiNhanh.resources
+E:\Group-Practice\PhanMemQuanLyKhachSan\obj\Debug\PhanMemQuanLyKhachSan.frmCapNhatBanAn.resources
+E:\Group-Practice\PhanMemQuanLyKhachSan\obj\Debug\PhanMemQuanLyKhachSan.frmCapNhatMonAn.resources
+E:\Group-Practice\PhanMemQuanLyKhachSan\obj\Debug\PhanMemQuanLyKhachSan.frmthucphamnhahang.resources
+E:\Group-Practice\PhanMemQuanLyKhachSan\obj\Debug\PhanMemQuanLyKhachSan.frmDangNhap.resources
+E:\Group-Practice\PhanMemQuanLyKhachSan\obj\Debug\PhanMemQuanLyKhachSan.frmNhaCungCap.resources
+E:\Group-Practice\PhanMemQuanLyKhachSan\obj\Debug\PhanMemQuanLyKhachSan.frmLienHe.resources
+E:\Group-Practice\PhanMemQuanLyKhachSan\obj\Debug\PhanMemQuanLyKhachSan.frmManHinhChinh.resources
+E:\Group-Practice\PhanMemQuanLyKhachSan\obj\Debug\PhanMemQuanLyKhachSan.frmChiTietPhieuDatBan.resources
+E:\Group-Practice\PhanMemQuanLyKhachSan\obj\Debug\PhanMemQuanLyKhachSan.frmQuanLyKhachHang.resources
+E:\Group-Practice\PhanMemQuanLyKhachSan\obj\Debug\PhanMemQuanLyKhachSan.frmQuanLyNhanVien.resources
+E:\Group-Practice\PhanMemQuanLyKhachSan\obj\Debug\PhanMemQuanLyKhachSan.Properties.Resources.resources
+E:\Group-Practice\PhanMemQuanLyKhachSan\obj\Debug\PhanMemQuanLyKhachSan.frmCapNhatThongTinNhanVien.resources
+E:\Group-Practice\PhanMemQuanLyKhachSan\obj\Debug\QuanLyNhaHang.csproj.GenerateResource.cache
+E:\Group-Practice\PhanMemQuanLyKhachSan\obj\Debug\QuanLyNhaHang.csproj.CoreCompileInputs.cache
+E:\Group-Practice\PhanMemQuanLyKhachSan\obj\Debug\QuanLyNhaHang.csproj.CopyComplete
+E:\Group-Practice\PhanMemQuanLyKhachSan\obj\Debug\PhanMemQuanLyKhachSan.exe
+E:\Group-Practice\PhanMemQuanLyKhachSan\obj\Debug\PhanMemQuanLyKhachSan.pdb
+E:\Group-Practice\PhanMemQuanLyKhachSan\obj\Debug\PhanMemQuanLyKhachSan.frmQuanLyNhaHang.resources
+E:\Group-Practice\PhanMemQuanLyKhachSan\obj\Debug\PhanMemQuanLyKhachSan.frmCapNhatBoPhanNhanVien.resources
+D:\Group-Practice-main\PhanMemQuanLyKhachSan\bin\Debug\PhanMemQuanLyKhachSan.exe.config
+D:\Group-Practice-main\PhanMemQuanLyKhachSan\bin\Debug\PhanMemQuanLyKhachSan.exe
+D:\Group-Practice-main\PhanMemQuanLyKhachSan\bin\Debug\PhanMemQuanLyKhachSan.pdb
+D:\Group-Practice-main\PhanMemQuanLyKhachSan\bin\Debug\EntityFramework.dll
+D:\Group-Practice-main\PhanMemQuanLyKhachSan\bin\Debug\EntityFramework.SqlServer.dll
+D:\Group-Practice-main\PhanMemQuanLyKhachSan\bin\Debug\EntityFramework.xml
+D:\Group-Practice-main\PhanMemQuanLyKhachSan\bin\Debug\EntityFramework.SqlServer.xml
+D:\Group-Practice-main\PhanMemQuanLyKhachSan\obj\Debug\QuanLyNhaHang.csprojAssemblyReference.cache
+D:\Group-Practice-main\PhanMemQuanLyKhachSan\obj\Debug\PhanMemQuanLyKhachSan.frmCapNhatBoPhanNhanVien.resources
+D:\Group-Practice-main\PhanMemQuanLyKhachSan\obj\Debug\PhanMemQuanLyKhachSan.frmCapNhatChiNhanh.resources
+D:\Group-Practice-main\PhanMemQuanLyKhachSan\obj\Debug\PhanMemQuanLyKhachSan.frmCapNhatBanAn.resources
+D:\Group-Practice-main\PhanMemQuanLyKhachSan\obj\Debug\PhanMemQuanLyKhachSan.frmCapNhatMonAn.resources
+D:\Group-Practice-main\PhanMemQuanLyKhachSan\obj\Debug\PhanMemQuanLyKhachSan.frmthucphamnhahang.resources
+D:\Group-Practice-main\PhanMemQuanLyKhachSan\obj\Debug\PhanMemQuanLyKhachSan.frmDangNhap.resources
+D:\Group-Practice-main\PhanMemQuanLyKhachSan\obj\Debug\PhanMemQuanLyKhachSan.frmNhaCungCap.resources
+D:\Group-Practice-main\PhanMemQuanLyKhachSan\obj\Debug\PhanMemQuanLyKhachSan.frmLienHe.resources
+D:\Group-Practice-main\PhanMemQuanLyKhachSan\obj\Debug\PhanMemQuanLyKhachSan.frmManHinhChinh.resources
+D:\Group-Practice-main\PhanMemQuanLyKhachSan\obj\Debug\PhanMemQuanLyKhachSan.frmChiTietPhieuDatBan.resources
+D:\Group-Practice-main\PhanMemQuanLyKhachSan\obj\Debug\PhanMemQuanLyKhachSan.frmQuanLyKhachHang.resources
+D:\Group-Practice-main\PhanMemQuanLyKhachSan\obj\Debug\PhanMemQuanLyKhachSan.frmQuanLyNhanVien.resources
+D:\Group-Practice-main\PhanMemQuanLyKhachSan\obj\Debug\PhanMemQuanLyKhachSan.Properties.Resources.resources
+D:\Group-Practice-main\PhanMemQuanLyKhachSan\obj\Debug\PhanMemQuanLyKhachSan.frmQuanLyNhaHang.resources
+D:\Group-Practice-main\PhanMemQuanLyKhachSan\obj\Debug\PhanMemQuanLyKhachSan.frmCapNhatThongTinNhanVien.resources
+D:\Group-Practice-main\PhanMemQuanLyKhachSan\obj\Debug\QuanLyNhaHang.csproj.GenerateResource.cache
+D:\Group-Practice-main\PhanMemQuanLyKhachSan\obj\Debug\QuanLyNhaHang.csproj.CoreCompileInputs.cache
+D:\Group-Practice-main\PhanMemQuanLyKhachSan\obj\Debug\QuanLyNhaHang.csproj.CopyComplete
+D:\Group-Practice-main\PhanMemQuanLyKhachSan\obj\Debug\PhanMemQuanLyKhachSan.exe
+D:\Group-Practice-main\PhanMemQuanLyKhachSan\obj\Debug\PhanMemQuanLyKhachSan.pdb
+E:\Thực Tập CSDL\ThuctapCSDL\Group-Practice-main\PhanMemQuanLyKhachSan\bin\Debug\PhanMemQuanLyKhachSan.exe.config
+E:\Thực Tập CSDL\ThuctapCSDL\Group-Practice-main\PhanMemQuanLyKhachSan\bin\Debug\PhanMemQuanLyKhachSan.exe
+E:\Thực Tập CSDL\ThuctapCSDL\Group-Practice-main\PhanMemQuanLyKhachSan\bin\Debug\PhanMemQuanLyKhachSan.pdb
+E:\Thực Tập CSDL\ThuctapCSDL\Group-Practice-main\PhanMemQuanLyKhachSan\bin\Debug\EntityFramework.dll
+E:\Thực Tập CSDL\ThuctapCSDL\Group-Practice-main\PhanMemQuanLyKhachSan\bin\Debug\EntityFramework.SqlServer.dll
+E:\Thực Tập CSDL\ThuctapCSDL\Group-Practice-main\PhanMemQuanLyKhachSan\bin\Debug\EntityFramework.xml
+E:\Thực Tập CSDL\ThuctapCSDL\Group-Practice-main\PhanMemQuanLyKhachSan\bin\Debug\EntityFramework.SqlServer.xml
+E:\Thực Tập CSDL\ThuctapCSDL\Group-Practice-main\PhanMemQuanLyKhachSan\obj\Debug\QuanLyNhaHang.csprojAssemblyReference.cache
+E:\Thực Tập CSDL\ThuctapCSDL\Group-Practice-main\PhanMemQuanLyKhachSan\obj\Debug\PhanMemQuanLyKhachSan.frmCapNhatBoPhanNhanVien.resources
+E:\Thực Tập CSDL\ThuctapCSDL\Group-Practice-main\PhanMemQuanLyKhachSan\obj\Debug\PhanMemQuanLyKhachSan.frmCapNhatChiNhanh.resources
+E:\Thực Tập CSDL\ThuctapCSDL\Group-Practice-main\PhanMemQuanLyKhachSan\obj\Debug\PhanMemQuanLyKhachSan.frmCapNhatBanAn.resources
+E:\Thực Tập CSDL\ThuctapCSDL\Group-Practice-main\PhanMemQuanLyKhachSan\obj\Debug\PhanMemQuanLyKhachSan.frmCapNhatMonAn.resources
+E:\Thực Tập CSDL\ThuctapCSDL\Group-Practice-main\PhanMemQuanLyKhachSan\obj\Debug\PhanMemQuanLyKhachSan.frmthucphamnhahang.resources
+E:\Thực Tập CSDL\ThuctapCSDL\Group-Practice-main\PhanMemQuanLyKhachSan\obj\Debug\PhanMemQuanLyKhachSan.frmDangNhap.resources
+E:\Thực Tập CSDL\ThuctapCSDL\Group-Practice-main\PhanMemQuanLyKhachSan\obj\Debug\PhanMemQuanLyKhachSan.frmNhaCungCap.resources
+E:\Thực Tập CSDL\ThuctapCSDL\Group-Practice-main\PhanMemQuanLyKhachSan\obj\Debug\PhanMemQuanLyKhachSan.frmLienHe.resources
+E:\Thực Tập CSDL\ThuctapCSDL\Group-Practice-main\PhanMemQuanLyKhachSan\obj\Debug\PhanMemQuanLyKhachSan.frmManHinhChinh.resources
+E:\Thực Tập CSDL\ThuctapCSDL\Group-Practice-main\PhanMemQuanLyKhachSan\obj\Debug\PhanMemQuanLyKhachSan.frmChiTietPhieuDatBan.resources
+E:\Thực Tập CSDL\ThuctapCSDL\Group-Practice-main\PhanMemQuanLyKhachSan\obj\Debug\PhanMemQuanLyKhachSan.frmQuanLyKhachHang.resources
+E:\Thực Tập CSDL\ThuctapCSDL\Group-Practice-main\PhanMemQuanLyKhachSan\obj\Debug\PhanMemQuanLyKhachSan.frmQuanLyNhanVien.resources
+E:\Thực Tập CSDL\ThuctapCSDL\Group-Practice-main\PhanMemQuanLyKhachSan\obj\Debug\PhanMemQuanLyKhachSan.Properties.Resources.resources
+E:\Thực Tập CSDL\ThuctapCSDL\Group-Practice-main\PhanMemQuanLyKhachSan\obj\Debug\PhanMemQuanLyKhachSan.frmQuanLyNhaHang.resources
+E:\Thực Tập CSDL\ThuctapCSDL\Group-Practice-main\PhanMemQuanLyKhachSan\obj\Debug\PhanMemQuanLyKhachSan.frmCapNhatThongTinNhanVien.resources
+E:\Thực Tập CSDL\ThuctapCSDL\Group-Practice-main\PhanMemQuanLyKhachSan\obj\Debug\QuanLyNhaHang.csproj.GenerateResource.cache
+E:\Thực Tập CSDL\ThuctapCSDL\Group-Practice-main\PhanMemQuanLyKhachSan\obj\Debug\QuanLyNhaHang.csproj.CoreCompileInputs.cache
+E:\Thực Tập CSDL\ThuctapCSDL\Group-Practice-main\PhanMemQuanLyKhachSan\obj\Debug\QuanLyNhaHang.csproj.CopyComplete
+E:\Thực Tập CSDL\ThuctapCSDL\Group-Practice-main\PhanMemQuanLyKhachSan\obj\Debug\PhanMemQuanLyKhachSan.exe
+E:\Thực Tập CSDL\ThuctapCSDL\Group-Practice-main\PhanMemQuanLyKhachSan\obj\Debug\PhanMemQuanLyKhachSan.pdb
+C:\Users\A\Desktop\QL_NhaHang\Group-Practice\PhanMemQuanLyKhachSan\bin\Debug\PhanMemQuanLyKhachSan.exe.config
+C:\Users\A\Desktop\QL_NhaHang\Group-Practice\PhanMemQuanLyKhachSan\bin\Debug\PhanMemQuanLyKhachSan.exe
+C:\Users\A\Desktop\QL_NhaHang\Group-Practice\PhanMemQuanLyKhachSan\bin\Debug\PhanMemQuanLyKhachSan.pdb
+C:\Users\A\Desktop\QL_NhaHang\Group-Practice\PhanMemQuanLyKhachSan\bin\Debug\EntityFramework.dll
+C:\Users\A\Desktop\QL_NhaHang\Group-Practice\PhanMemQuanLyKhachSan\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\A\Desktop\QL_NhaHang\Group-Practice\PhanMemQuanLyKhachSan\bin\Debug\EntityFramework.xml
+C:\Users\A\Desktop\QL_NhaHang\Group-Practice\PhanMemQuanLyKhachSan\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\A\Desktop\QL_NhaHang\Group-Practice\PhanMemQuanLyKhachSan\obj\Debug\QuanLyNhaHang.csprojAssemblyReference.cache
+C:\Users\A\Desktop\QL_NhaHang\Group-Practice\PhanMemQuanLyKhachSan\obj\Debug\PhanMemQuanLyKhachSan.frmCapNhatBoPhanNhanVien.resources
+C:\Users\A\Desktop\QL_NhaHang\Group-Practice\PhanMemQuanLyKhachSan\obj\Debug\PhanMemQuanLyKhachSan.frmCapNhatChiNhanh.resources
+C:\Users\A\Desktop\QL_NhaHang\Group-Practice\PhanMemQuanLyKhachSan\obj\Debug\PhanMemQuanLyKhachSan.frmCapNhatBanAn.resources
+C:\Users\A\Desktop\QL_NhaHang\Group-Practice\PhanMemQuanLyKhachSan\obj\Debug\PhanMemQuanLyKhachSan.frmCapNhatMonAn.resources
+C:\Users\A\Desktop\QL_NhaHang\Group-Practice\PhanMemQuanLyKhachSan\obj\Debug\PhanMemQuanLyKhachSan.frmthucphamnhahang.resources
+C:\Users\A\Desktop\QL_NhaHang\Group-Practice\PhanMemQuanLyKhachSan\obj\Debug\PhanMemQuanLyKhachSan.frmDangNhap.resources
+C:\Users\A\Desktop\QL_NhaHang\Group-Practice\PhanMemQuanLyKhachSan\obj\Debug\PhanMemQuanLyKhachSan.frmNhaCungCap.resources
+C:\Users\A\Desktop\QL_NhaHang\Group-Practice\PhanMemQuanLyKhachSan\obj\Debug\PhanMemQuanLyKhachSan.frmLienHe.resources
+C:\Users\A\Desktop\QL_NhaHang\Group-Practice\PhanMemQuanLyKhachSan\obj\Debug\PhanMemQuanLyKhachSan.frmManHinhChinh.resources
+C:\Users\A\Desktop\QL_NhaHang\Group-Practice\PhanMemQuanLyKhachSan\obj\Debug\PhanMemQuanLyKhachSan.frmChiTietPhieuDatBan.resources
+C:\Users\A\Desktop\QL_NhaHang\Group-Practice\PhanMemQuanLyKhachSan\obj\Debug\PhanMemQuanLyKhachSan.frmQuanLyKhachHang.resources
+C:\Users\A\Desktop\QL_NhaHang\Group-Practice\PhanMemQuanLyKhachSan\obj\Debug\PhanMemQuanLyKhachSan.frmQuanLyNhanVien.resources
+C:\Users\A\Desktop\QL_NhaHang\Group-Practice\PhanMemQuanLyKhachSan\obj\Debug\PhanMemQuanLyKhachSan.Properties.Resources.resources
+C:\Users\A\Desktop\QL_NhaHang\Group-Practice\PhanMemQuanLyKhachSan\obj\Debug\PhanMemQuanLyKhachSan.frmQuanLyNhaHang.resources
+C:\Users\A\Desktop\QL_NhaHang\Group-Practice\PhanMemQuanLyKhachSan\obj\Debug\PhanMemQuanLyKhachSan.frmCapNhatThongTinNhanVien.resources
+C:\Users\A\Desktop\QL_NhaHang\Group-Practice\PhanMemQuanLyKhachSan\obj\Debug\QuanLyNhaHang.csproj.GenerateResource.cache
+C:\Users\A\Desktop\QL_NhaHang\Group-Practice\PhanMemQuanLyKhachSan\obj\Debug\QuanLyNhaHang.csproj.CoreCompileInputs.cache
+C:\Users\A\Desktop\QL_NhaHang\Group-Practice\PhanMemQuanLyKhachSan\obj\Debug\QuanLyNhaHang.csproj.CopyComplete
+C:\Users\A\Desktop\QL_NhaHang\Group-Practice\PhanMemQuanLyKhachSan\obj\Debug\PhanMemQuanLyKhachSan.exe
+C:\Users\A\Desktop\QL_NhaHang\Group-Practice\PhanMemQuanLyKhachSan\obj\Debug\PhanMemQuanLyKhachSan.pdb
+C:\Users\A\Desktop\QL_NhaHang\Thuc_Tap_CSDL\ALL_Source_Code\PhanMemQuanLyKhachSan\bin\Debug\PhanMemQuanLyKhachSan.exe.config
+C:\Users\A\Desktop\QL_NhaHang\Thuc_Tap_CSDL\ALL_Source_Code\PhanMemQuanLyKhachSan\bin\Debug\PhanMemQuanLyKhachSan.exe
+C:\Users\A\Desktop\QL_NhaHang\Thuc_Tap_CSDL\ALL_Source_Code\PhanMemQuanLyKhachSan\bin\Debug\PhanMemQuanLyKhachSan.pdb
+C:\Users\A\Desktop\QL_NhaHang\Thuc_Tap_CSDL\ALL_Source_Code\PhanMemQuanLyKhachSan\bin\Debug\EntityFramework.dll
+C:\Users\A\Desktop\QL_NhaHang\Thuc_Tap_CSDL\ALL_Source_Code\PhanMemQuanLyKhachSan\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\A\Desktop\QL_NhaHang\Thuc_Tap_CSDL\ALL_Source_Code\PhanMemQuanLyKhachSan\bin\Debug\EntityFramework.xml
+C:\Users\A\Desktop\QL_NhaHang\Thuc_Tap_CSDL\ALL_Source_Code\PhanMemQuanLyKhachSan\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\A\Desktop\QL_NhaHang\Thuc_Tap_CSDL\ALL_Source_Code\PhanMemQuanLyKhachSan\obj\Debug\QuanLyNhaHang.csprojAssemblyReference.cache
+C:\Users\A\Desktop\QL_NhaHang\Thuc_Tap_CSDL\ALL_Source_Code\PhanMemQuanLyKhachSan\obj\Debug\PhanMemQuanLyKhachSan.frmCapNhatBoPhanNhanVien.resources
+C:\Users\A\Desktop\QL_NhaHang\Thuc_Tap_CSDL\ALL_Source_Code\PhanMemQuanLyKhachSan\obj\Debug\PhanMemQuanLyKhachSan.frmCapNhatChiNhanh.resources
+C:\Users\A\Desktop\QL_NhaHang\Thuc_Tap_CSDL\ALL_Source_Code\PhanMemQuanLyKhachSan\obj\Debug\PhanMemQuanLyKhachSan.frmCapNhatBanAn.resources
+C:\Users\A\Desktop\QL_NhaHang\Thuc_Tap_CSDL\ALL_Source_Code\PhanMemQuanLyKhachSan\obj\Debug\PhanMemQuanLyKhachSan.frmCapNhatMonAn.resources
+C:\Users\A\Desktop\QL_NhaHang\Thuc_Tap_CSDL\ALL_Source_Code\PhanMemQuanLyKhachSan\obj\Debug\PhanMemQuanLyKhachSan.frmthucphamnhahang.resources
+C:\Users\A\Desktop\QL_NhaHang\Thuc_Tap_CSDL\ALL_Source_Code\PhanMemQuanLyKhachSan\obj\Debug\PhanMemQuanLyKhachSan.frmDangNhap.resources
+C:\Users\A\Desktop\QL_NhaHang\Thuc_Tap_CSDL\ALL_Source_Code\PhanMemQuanLyKhachSan\obj\Debug\PhanMemQuanLyKhachSan.frmNhaCungCap.resources
+C:\Users\A\Desktop\QL_NhaHang\Thuc_Tap_CSDL\ALL_Source_Code\PhanMemQuanLyKhachSan\obj\Debug\PhanMemQuanLyKhachSan.frmLienHe.resources
+C:\Users\A\Desktop\QL_NhaHang\Thuc_Tap_CSDL\ALL_Source_Code\PhanMemQuanLyKhachSan\obj\Debug\PhanMemQuanLyKhachSan.frmManHinhChinh.resources
+C:\Users\A\Desktop\QL_NhaHang\Thuc_Tap_CSDL\ALL_Source_Code\PhanMemQuanLyKhachSan\obj\Debug\PhanMemQuanLyKhachSan.frmChiTietPhieuDatBan.resources
+C:\Users\A\Desktop\QL_NhaHang\Thuc_Tap_CSDL\ALL_Source_Code\PhanMemQuanLyKhachSan\obj\Debug\PhanMemQuanLyKhachSan.frmQuanLyKhachHang.resources
+C:\Users\A\Desktop\QL_NhaHang\Thuc_Tap_CSDL\ALL_Source_Code\PhanMemQuanLyKhachSan\obj\Debug\PhanMemQuanLyKhachSan.frmQuanLyNhanVien.resources
+C:\Users\A\Desktop\QL_NhaHang\Thuc_Tap_CSDL\ALL_Source_Code\PhanMemQuanLyKhachSan\obj\Debug\PhanMemQuanLyKhachSan.Properties.Resources.resources
+C:\Users\A\Desktop\QL_NhaHang\Thuc_Tap_CSDL\ALL_Source_Code\PhanMemQuanLyKhachSan\obj\Debug\PhanMemQuanLyKhachSan.frmQuanLyNhaHang.resources
+C:\Users\A\Desktop\QL_NhaHang\Thuc_Tap_CSDL\ALL_Source_Code\PhanMemQuanLyKhachSan\obj\Debug\PhanMemQuanLyKhachSan.frmCapNhatThongTinNhanVien.resources
+C:\Users\A\Desktop\QL_NhaHang\Thuc_Tap_CSDL\ALL_Source_Code\PhanMemQuanLyKhachSan\obj\Debug\QuanLyNhaHang.csproj.GenerateResource.cache
+C:\Users\A\Desktop\QL_NhaHang\Thuc_Tap_CSDL\ALL_Source_Code\PhanMemQuanLyKhachSan\obj\Debug\QuanLyNhaHang.csproj.CoreCompileInputs.cache
+C:\Users\A\Desktop\QL_NhaHang\Thuc_Tap_CSDL\ALL_Source_Code\PhanMemQuanLyKhachSan\obj\Debug\QuanLyNhaHang.csproj.CopyComplete
+C:\Users\A\Desktop\QL_NhaHang\Thuc_Tap_CSDL\ALL_Source_Code\PhanMemQuanLyKhachSan\obj\Debug\PhanMemQuanLyKhachSan.exe
+C:\Users\A\Desktop\QL_NhaHang\Thuc_Tap_CSDL\ALL_Source_Code\PhanMemQuanLyKhachSan\obj\Debug\PhanMemQuanLyKhachSan.pdb

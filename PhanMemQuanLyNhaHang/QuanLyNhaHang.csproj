@@ -1,0 +1,365 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="12.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="..\packages\EntityFramework.6.3.0\build\EntityFramework.props" Condition="Exists('..\packages\EntityFramework.6.3.0\build\EntityFramework.props')" />
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{8CA269BC-EF16-47AC-8093-A9291330231C}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>PhanMemQuanLyKhachSan</RootNamespace>
+    <AssemblyName>PhanMemQuanLyKhachSan</AssemblyName>
+    <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <NuGetPackageImportStamp>
+    </NuGetPackageImportStamp>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="EntityFramework, Version=6.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089, processorArchitecture=MSIL">
+      <HintPath>..\packages\EntityFramework.6.3.0\lib\net45\EntityFramework.dll</HintPath>
+    </Reference>
+    <Reference Include="EntityFramework.SqlServer, Version=6.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089, processorArchitecture=MSIL">
+      <HintPath>..\packages\EntityFramework.6.3.0\lib\net45\EntityFramework.SqlServer.dll</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.ComponentModel.DataAnnotations" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Runtime.Serialization" />
+    <Reference Include="System.Security" />
+    <Reference Include="System.Windows.Forms.DataVisualization" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Capnhatchinhanh.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Capnhatchinhanh.Designer.cs">
+      <DependentUpon>Capnhatchinhanh.cs</DependentUpon>
+    </Compile>
+    <Compile Include="cla_crud.cs" />
+    <Compile Include="CSDL.cs" />
+    <Compile Include="Cập Nhật Bàn Ăn.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Cập Nhật Bàn Ăn.Designer.cs">
+      <DependentUpon>Cập Nhật Bàn Ăn.cs</DependentUpon>
+    </Compile>
+    <Compile Include="CapNhatMonAn.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="CapNhatMonAn.Designer.cs">
+      <DependentUpon>CapNhatMonAn.cs</DependentUpon>
+    </Compile>
+    <Compile Include="CapNhatThucPham.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="CapNhatThucPham.Designer.cs">
+      <DependentUpon>CapNhatThucPham.cs</DependentUpon>
+    </Compile>
+    <Compile Include="DangNhap.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="DangNhap.Designer.cs">
+      <DependentUpon>DangNhap.cs</DependentUpon>
+    </Compile>
+    <Compile Include="CapNhatBoPhanNhanVien.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="CapNhatBoPhanNhanVien.Designer.cs">
+      <DependentUpon>CapNhatBoPhanNhanVien.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Helper\Helper.cs" />
+    <Compile Include="Model\ChiTietHoaDon.cs" />
+    <Compile Include="Model\DichVu.cs" />
+    <Compile Include="Model\HoaDon.cs" />
+    <Compile Include="Model\KhachHang.cs" />
+    <Compile Include="Model\LichLamViec.cs" />
+    <Compile Include="Model\LoaiPhong.cs" />
+    <Compile Include="Model\MatKhau.cs" />
+    <Compile Include="Model\NhanVien.cs" />
+    <Compile Include="Model\Phong.cs" />
+    <Compile Include="Model\QLKSModel.cs" />
+    <Compile Include="Model\Booking.cs" />
+    <Compile Include="Model\VatTu.cs" />
+    <Compile Include="CapNhatNhaCungCap.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include=".Designer.cs">
+      <DependentUpon>CapNhatNhaCungCap.cs</DependentUpon>
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="MainForms\LienHe.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="MainForms\LienHe.Designer.cs">
+      <DependentUpon>LienHe.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ManHinhChinh.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ManHinhChinh.Designer.cs">
+      <DependentUpon>ManHinhChinh.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ChiTietPhieuDatBan.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ChiTietPhieuDatBan.Designer.cs">
+      <DependentUpon>ChiTietPhieuDatBan.cs</DependentUpon>
+    </Compile>
+    <Compile Include="MainForms\ManHinhQuanLyKhachHang.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="MainForms\ManHinhQuanLyKhachHang.Designer.cs">
+      <DependentUpon>ManHinhQuanLyKhachHang.cs</DependentUpon>
+    </Compile>
+    <Compile Include="MainForms\ManHinhQuanLyNhanVien.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="MainForms\ManHinhQuanLyNhanVien.Designer.cs">
+      <DependentUpon>ManHinhQuanLyNhanVien.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <Compile Include="MainForms\QuanLyNhaHang.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="MainForms\QuanLyNhaHang.Designer.cs">
+      <DependentUpon>QuanLyNhaHang.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ThongTinNhanVien.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ThongTinNhanVien.Designer.cs">
+      <DependentUpon>ThongTinNhanVien.cs</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="CapNhatBoPhanNhanVien.resx">
+      <DependentUpon>CapNhatBoPhanNhanVien.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Capnhatchinhanh.resx">
+      <DependentUpon>Capnhatchinhanh.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Cập Nhật Bàn Ăn.resx">
+      <DependentUpon>Cập Nhật Bàn Ăn.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="CapNhatMonAn.resx">
+      <DependentUpon>CapNhatMonAn.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="CapNhatThucPham.resx">
+      <DependentUpon>CapNhatThucPham.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="DangNhap.resx">
+      <DependentUpon>DangNhap.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="CapNhatNhaCungCap.resx">
+      <DependentUpon>CapNhatNhaCungCap.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="MainForms\LienHe.resx">
+      <DependentUpon>LienHe.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ManHinhChinh.resx">
+      <DependentUpon>ManHinhChinh.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ChiTietPhieuDatBan.resx">
+      <DependentUpon>ChiTietPhieuDatBan.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="MainForms\ManHinhQuanLyKhachHang.resx">
+      <DependentUpon>ManHinhQuanLyKhachHang.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="MainForms\ManHinhQuanLyNhanVien.resx">
+      <DependentUpon>ManHinhQuanLyNhanVien.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <SubType>Designer</SubType>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="MainForms\QuanLyNhaHang.resx">
+      <DependentUpon>QuanLyNhaHang.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ThongTinNhanVien.resx">
+      <DependentUpon>ThongTinNhanVien.cs</DependentUpon>
+    </EmbeddedResource>
+    <None Include="packages.config" />
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\iconLuu.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\iconBack.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\iconThem.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\iconDelete.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\iconSuaaaaa.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\iconHuy.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\iconTimKiem.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\iconUser.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\iconPassword.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\iconShowpassword.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\iconShow.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\iconLoc.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\iconEmail.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\iconPhone.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\iconFacebook.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\iconWeb.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Service Include="{508349B6-6B84-4DF5-91F0-309BEEBAD82D}" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\IconPhongTrong.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\IconPhongO.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\IconPhongTra.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\IconPhongDon.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\iconIn.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="Images\" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\backGroundQLP.png" />
+    <None Include="Resources\b1.jpg" />
+    <None Include="Resources\b2.jpg" />
+    <None Include="Resources\b3.png" />
+    <None Include="Resources\2588798.jpg" />
+    <None Include="Resources\b4.png" />
+    <None Include="Resources\b11.png" />
+    <None Include="Resources\b12.jpg" />
+    <None Include="Resources\b14.jpg" />
+    <None Include="Resources\b8.png" />
+    <None Include="Resources\b13.jpg" />
+    <None Include="Resources\b15.png" />
+    <None Include="Resources\b18.jpg" />
+    <None Include="Resources\b17.jpg" />
+    <None Include="Resources\26c5567ca5d23690c87b00d0b227f306.jpg" />
+    <Content Include="Resources\download.jpg" />
+    <None Include="Resources\iconQuanLyPhong.png" />
+    <None Include="Resources\iconQuanLyNhanVien.png" />
+    <None Include="Resources\iconQuanLyKhachSan.png" />
+    <None Include="Resources\iconQuanLyKhachHang.png" />
+    <None Include="Resources\iconThongKe.png" />
+    <None Include="Resources\iconLienHe.png" />
+    <None Include="Resources\images.jpg" />
+    <None Include="Resources\nen-background-cho-video_110638648.jpg" />
+    <None Include="Resources\images %281%29.jpg" />
+    <None Include="Resources\f2e2a2b4cd4de7c269f3013d48843c82.jpg" />
+    <None Include="Resources\iconfinder_Stock Index Up_278812.png" />
+    <None Include="Resources\iconfinder_Save_278762.png" />
+    <None Include="Resources\iconfinder_Remove_278742.png" />
+    <None Include="Resources\iconfinder_Synchronize_278832.png" />
+    <None Include="Resources\iconfinder_Zoom In_278881.png" />
+    <None Include="Resources\iconfinder_Zoom In_278882.png" />
+    <None Include="Resources\iconfinder_Save_2787621.png" />
+    <None Include="Resources\iconfinder_Stock Index Up_2788121.png" />
+    <None Include="Resources\iconfinder_Remove_2787421.png" />
+    <None Include="Resources\iconfinder_Remove_2787422.png" />
+    <None Include="Resources\iconfinder_Synchronize_2788321.png" />
+    <None Include="Resources\iconfinder_Stock Index Up_2788122.png" />
+    <None Include="Resources\iconfinder_Remove_2787423.png" />
+    <None Include="Resources\iconfinder_Remove_2787424.png" />
+    <None Include="Resources\iconfinder_Save_2787622.png" />
+    <None Include="Resources\iconfinder_Save_2787623.png" />
+    <Content Include="Resources\user.png" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <Target Name="EnsureNuGetPackageBuildImports" BeforeTargets="PrepareForBuild">
+    <PropertyGroup>
+      <ErrorText>This project references NuGet package(s) that are missing on this computer. Use NuGet Package Restore to download them.  For more information, see http://go.microsoft.com/fwlink/?LinkID=322105. The missing file is {0}.</ErrorText>
+    </PropertyGroup>
+    <Error Condition="!Exists('..\packages\EntityFramework.6.3.0\build\EntityFramework.props')" Text="$([System.String]::Format('$(ErrorText)', '..\packages\EntityFramework.6.3.0\build\EntityFramework.props'))" />
+    <Error Condition="!Exists('..\packages\EntityFramework.6.3.0\build\EntityFramework.targets')" Text="$([System.String]::Format('$(ErrorText)', '..\packages\EntityFramework.6.3.0\build\EntityFramework.targets'))" />
+  </Target>
+  <Import Project="..\packages\EntityFramework.6.3.0\build\EntityFramework.targets" Condition="Exists('..\packages\EntityFramework.6.3.0\build\EntityFramework.targets')" />
+  <PropertyGroup>
+    <PreBuildEvent>
+    </PreBuildEvent>
+  </PropertyGroup>
+  <PropertyGroup>
+    <PostBuildEvent>xcopy "$(ProjectDir)Images\*.*" "$(TargetDir)\Images" /Y /I /E</PostBuildEvent>
+  </PropertyGroup>
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

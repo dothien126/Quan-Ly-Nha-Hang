@@ -1,0 +1,84 @@
+E:\Thực tập cơ sở dữ liệu\Group-Practice\QuanLyNhaHang\obj\Debug\QuanLyNhaHang.csprojAssemblyReference.cache
+E:\Thực tập cơ sở dữ liệu\Group-Practice\QuanLyNhaHang\obj\Debug\QuanLyNhaHang.frmCapNhatBoPhanNhanVien.resources
+E:\Thực tập cơ sở dữ liệu\Group-Practice\QuanLyNhaHang\obj\Debug\QuanLyNhaHang.frmCapNhatChiNhanh.resources
+E:\Thực tập cơ sở dữ liệu\Group-Practice\QuanLyNhaHang\obj\Debug\QuanLyNhaHang.frmCapNhatBanAn.resources
+E:\Thực tập cơ sở dữ liệu\Group-Practice\QuanLyNhaHang\obj\Debug\QuanLyNhaHang.frmCapNhatMonAn.resources
+E:\Thực tập cơ sở dữ liệu\Group-Practice\QuanLyNhaHang\obj\Debug\QuanLyNhaHang.frmthucphamnhahang.resources
+E:\Thực tập cơ sở dữ liệu\Group-Practice\QuanLyNhaHang\obj\Debug\QuanLyNhaHang.frmDangNhap.resources
+E:\Thực tập cơ sở dữ liệu\Group-Practice\QuanLyNhaHang\obj\Debug\QuanLyNhaHang.frmNhaCungCap.resources
+E:\Thực tập cơ sở dữ liệu\Group-Practice\QuanLyNhaHang\obj\Debug\QuanLyNhaHang.frmLienHe.resources
+E:\Thực tập cơ sở dữ liệu\Group-Practice\QuanLyNhaHang\obj\Debug\QuanLyNhaHang.frmManHinhChinh.resources
+E:\Thực tập cơ sở dữ liệu\Group-Practice\QuanLyNhaHang\obj\Debug\QuanLyNhaHang.frmChiTietPhieuDatBan.resources
+E:\Thực tập cơ sở dữ liệu\Group-Practice\QuanLyNhaHang\obj\Debug\QuanLyNhaHang.frmQuanLyKhachHang.resources
+E:\Thực tập cơ sở dữ liệu\Group-Practice\QuanLyNhaHang\obj\Debug\QuanLyNhaHang.frmQuanLyNhanVien.resources
+E:\Thực tập cơ sở dữ liệu\Group-Practice\QuanLyNhaHang\obj\Debug\QuanLyNhaHang.Properties.Resources.resources
+E:\Thực tập cơ sở dữ liệu\Group-Practice\QuanLyNhaHang\obj\Debug\QuanLyNhaHang.frmQuanLyNhaHang.resources
+E:\Thực tập cơ sở dữ liệu\Group-Practice\QuanLyNhaHang\obj\Debug\QuanLyNhaHang.frmCapNhatThongTinNhanVien.resources
+E:\Thực tập cơ sở dữ liệu\Group-Practice\QuanLyNhaHang\obj\Debug\QuanLyNhaHang.csproj.GenerateResource.cache
+E:\Thực tập cơ sở dữ liệu\Group-Practice\QuanLyNhaHang\obj\Debug\QuanLyNhaHang.csproj.CoreCompileInputs.cache
+E:\Thực tập cơ sở dữ liệu\Group-Practice\QuanLyNhaHang\bin\Debug\QuanLyNhaHang.exe.config
+E:\Thực tập cơ sở dữ liệu\Group-Practice\QuanLyNhaHang\bin\Debug\QuanLyNhaHang.exe
+E:\Thực tập cơ sở dữ liệu\Group-Practice\QuanLyNhaHang\bin\Debug\QuanLyNhaHang.pdb
+E:\Thực tập cơ sở dữ liệu\Group-Practice\QuanLyNhaHang\bin\Debug\EntityFramework.dll
+E:\Thực tập cơ sở dữ liệu\Group-Practice\QuanLyNhaHang\bin\Debug\EntityFramework.SqlServer.dll
+E:\Thực tập cơ sở dữ liệu\Group-Practice\QuanLyNhaHang\bin\Debug\EntityFramework.xml
+E:\Thực tập cơ sở dữ liệu\Group-Practice\QuanLyNhaHang\bin\Debug\EntityFramework.SqlServer.xml
+E:\Thực tập cơ sở dữ liệu\Group-Practice\QuanLyNhaHang\obj\Debug\QuanLyNhaHang.csproj.CopyComplete
+E:\Thực tập cơ sở dữ liệu\Group-Practice\QuanLyNhaHang\obj\Debug\QuanLyNhaHang.exe
+E:\Thực tập cơ sở dữ liệu\Group-Practice\QuanLyNhaHang\obj\Debug\QuanLyNhaHang.pdb
+C:\Users\Admin\Desktop\Goc hoc tap\Group-Practice\QuanLyNhaHang\bin\Debug\QuanLyNhaHang.exe.config
+C:\Users\Admin\Desktop\Goc hoc tap\Group-Practice\QuanLyNhaHang\bin\Debug\QuanLyNhaHang.exe
+C:\Users\Admin\Desktop\Goc hoc tap\Group-Practice\QuanLyNhaHang\bin\Debug\QuanLyNhaHang.pdb
+C:\Users\Admin\Desktop\Goc hoc tap\Group-Practice\QuanLyNhaHang\bin\Debug\EntityFramework.dll
+C:\Users\Admin\Desktop\Goc hoc tap\Group-Practice\QuanLyNhaHang\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Admin\Desktop\Goc hoc tap\Group-Practice\QuanLyNhaHang\bin\Debug\EntityFramework.xml
+C:\Users\Admin\Desktop\Goc hoc tap\Group-Practice\QuanLyNhaHang\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Admin\Desktop\Goc hoc tap\Group-Practice\QuanLyNhaHang\obj\Debug\QuanLyNhaHang.csprojAssemblyReference.cache
+C:\Users\Admin\Desktop\Goc hoc tap\Group-Practice\QuanLyNhaHang\obj\Debug\QuanLyNhaHang.frmCapNhatBoPhanNhanVien.resources
+C:\Users\Admin\Desktop\Goc hoc tap\Group-Practice\QuanLyNhaHang\obj\Debug\QuanLyNhaHang.frmCapNhatChiNhanh.resources
+C:\Users\Admin\Desktop\Goc hoc tap\Group-Practice\QuanLyNhaHang\obj\Debug\QuanLyNhaHang.frmCapNhatBanAn.resources
+C:\Users\Admin\Desktop\Goc hoc tap\Group-Practice\QuanLyNhaHang\obj\Debug\QuanLyNhaHang.frmCapNhatMonAn.resources
+C:\Users\Admin\Desktop\Goc hoc tap\Group-Practice\QuanLyNhaHang\obj\Debug\QuanLyNhaHang.frmthucphamnhahang.resources
+C:\Users\Admin\Desktop\Goc hoc tap\Group-Practice\QuanLyNhaHang\obj\Debug\QuanLyNhaHang.frmDangNhap.resources
+C:\Users\Admin\Desktop\Goc hoc tap\Group-Practice\QuanLyNhaHang\obj\Debug\QuanLyNhaHang.frmNhaCungCap.resources
+C:\Users\Admin\Desktop\Goc hoc tap\Group-Practice\QuanLyNhaHang\obj\Debug\QuanLyNhaHang.frmLienHe.resources
+C:\Users\Admin\Desktop\Goc hoc tap\Group-Practice\QuanLyNhaHang\obj\Debug\QuanLyNhaHang.frmManHinhChinh.resources
+C:\Users\Admin\Desktop\Goc hoc tap\Group-Practice\QuanLyNhaHang\obj\Debug\QuanLyNhaHang.frmChiTietPhieuDatBan.resources
+C:\Users\Admin\Desktop\Goc hoc tap\Group-Practice\QuanLyNhaHang\obj\Debug\QuanLyNhaHang.frmQuanLyKhachHang.resources
+C:\Users\Admin\Desktop\Goc hoc tap\Group-Practice\QuanLyNhaHang\obj\Debug\QuanLyNhaHang.frmQuanLyNhanVien.resources
+C:\Users\Admin\Desktop\Goc hoc tap\Group-Practice\QuanLyNhaHang\obj\Debug\QuanLyNhaHang.Properties.Resources.resources
+C:\Users\Admin\Desktop\Goc hoc tap\Group-Practice\QuanLyNhaHang\obj\Debug\QuanLyNhaHang.frmQuanLyNhaHang.resources
+C:\Users\Admin\Desktop\Goc hoc tap\Group-Practice\QuanLyNhaHang\obj\Debug\QuanLyNhaHang.frmCapNhatThongTinNhanVien.resources
+C:\Users\Admin\Desktop\Goc hoc tap\Group-Practice\QuanLyNhaHang\obj\Debug\QuanLyNhaHang.csproj.GenerateResource.cache
+C:\Users\Admin\Desktop\Goc hoc tap\Group-Practice\QuanLyNhaHang\obj\Debug\QuanLyNhaHang.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\Goc hoc tap\Group-Practice\QuanLyNhaHang\obj\Debug\QuanLyNhaHang.csproj.CopyComplete
+C:\Users\Admin\Desktop\Goc hoc tap\Group-Practice\QuanLyNhaHang\obj\Debug\QuanLyNhaHang.exe
+C:\Users\Admin\Desktop\Goc hoc tap\Group-Practice\QuanLyNhaHang\obj\Debug\QuanLyNhaHang.pdb
+C:\Users\A\Desktop\Group-Practice\QuanLyNhaHang\obj\Debug\QuanLyNhaHang.csprojAssemblyReference.cache
+C:\Users\A\Desktop\Group-Practice\QuanLyNhaHang\obj\Debug\QuanLyNhaHang.frmCapNhatBoPhanNhanVien.resources
+C:\Users\A\Desktop\Group-Practice\QuanLyNhaHang\obj\Debug\QuanLyNhaHang.frmCapNhatChiNhanh.resources
+C:\Users\A\Desktop\Group-Practice\QuanLyNhaHang\obj\Debug\QuanLyNhaHang.frmCapNhatBanAn.resources
+C:\Users\A\Desktop\Group-Practice\QuanLyNhaHang\obj\Debug\QuanLyNhaHang.frmCapNhatMonAn.resources
+C:\Users\A\Desktop\Group-Practice\QuanLyNhaHang\obj\Debug\QuanLyNhaHang.frmthucphamnhahang.resources
+C:\Users\A\Desktop\Group-Practice\QuanLyNhaHang\obj\Debug\QuanLyNhaHang.frmDangNhap.resources
+C:\Users\A\Desktop\Group-Practice\QuanLyNhaHang\obj\Debug\QuanLyNhaHang.frmNhaCungCap.resources
+C:\Users\A\Desktop\Group-Practice\QuanLyNhaHang\obj\Debug\QuanLyNhaHang.frmLienHe.resources
+C:\Users\A\Desktop\Group-Practice\QuanLyNhaHang\obj\Debug\QuanLyNhaHang.frmManHinhChinh.resources
+C:\Users\A\Desktop\Group-Practice\QuanLyNhaHang\obj\Debug\QuanLyNhaHang.frmChiTietPhieuDatBan.resources
+C:\Users\A\Desktop\Group-Practice\QuanLyNhaHang\obj\Debug\QuanLyNhaHang.frmQuanLyKhachHang.resources
+C:\Users\A\Desktop\Group-Practice\QuanLyNhaHang\obj\Debug\QuanLyNhaHang.frmQuanLyNhanVien.resources
+C:\Users\A\Desktop\Group-Practice\QuanLyNhaHang\obj\Debug\QuanLyNhaHang.frmQuanLyNhaHang.resources
+C:\Users\A\Desktop\Group-Practice\QuanLyNhaHang\obj\Debug\QuanLyNhaHang.frmCapNhatThongTinNhanVien.resources
+C:\Users\A\Desktop\Group-Practice\QuanLyNhaHang\obj\Debug\QuanLyNhaHang.csproj.GenerateResource.cache
+C:\Users\A\Desktop\Group-Practice\QuanLyNhaHang\obj\Debug\QuanLyNhaHang.exe
+C:\Users\A\Desktop\Group-Practice\QuanLyNhaHang\obj\Debug\QuanLyNhaHang.pdb
+C:\Users\A\Desktop\Group-Practice\QuanLyNhaHang\bin\Debug\QuanLyNhaHang.exe.config
+C:\Users\A\Desktop\Group-Practice\QuanLyNhaHang\bin\Debug\QuanLyNhaHang.exe
+C:\Users\A\Desktop\Group-Practice\QuanLyNhaHang\bin\Debug\QuanLyNhaHang.pdb
+C:\Users\A\Desktop\Group-Practice\QuanLyNhaHang\bin\Debug\EntityFramework.dll
+C:\Users\A\Desktop\Group-Practice\QuanLyNhaHang\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\A\Desktop\Group-Practice\QuanLyNhaHang\bin\Debug\EntityFramework.xml
+C:\Users\A\Desktop\Group-Practice\QuanLyNhaHang\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\A\Desktop\Group-Practice\QuanLyNhaHang\obj\Debug\QuanLyNhaHang.Properties.Resources.resources
+C:\Users\A\Desktop\Group-Practice\QuanLyNhaHang\obj\Debug\QuanLyNhaHang.csproj.CoreCompileInputs.cache
+C:\Users\A\Desktop\Group-Practice\QuanLyNhaHang\obj\Debug\QuanLyNhaHang.csproj.CopyComplete
